@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Eloi Rey · Computer Engineering student focused on cybersecurity" src="assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
+  <img alt="Eloi Rey · Computer Engineering student focused on cybersecurity" src="header-light.svg" width="100%">
 </picture>
 
 I'm Eloi, a third-year Computer Engineering student at Universitat Rovira i Virgili in Tarragona, Spain. I want to work in cybersecurity, and I learn it by building things I can attack, watch and fix. I also run **Rotafy**, a small SaaS I designed, built and launched on my own.
@@ -14,8 +14,8 @@ I'm still early in security, so I try to be clear about what I know and what I'm
     <td width="50%" valign="top">
       <a href="https://github.com/eloirey/aegis-project">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/aegis-dark.svg">
-          <img alt="Aegis — self-healing security lab on AWS" src="assets/aegis-light.svg" width="100%">
+          <source media="(prefers-color-scheme: dark)" srcset="aegis-dark.svg">
+          <img alt="Aegis — self-healing security lab on AWS" src="aegis-light.svg" width="100%">
         </picture>
       </a>
       <br>
@@ -26,8 +26,8 @@ I'm still early in security, so I try to be clear about what I know and what I'm
     <td width="50%" valign="top">
       <a href="https://rotafy.es">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/rotafy-dark.svg">
-          <img alt="Rotafy — shift scheduling SaaS" src="assets/rotafy-light.svg" width="100%">
+          <source media="(prefers-color-scheme: dark)" srcset="rotafy-dark.svg">
+          <img alt="Rotafy — shift scheduling SaaS" src="rotafy-light.svg" width="100%">
         </picture>
       </a>
       <br>
